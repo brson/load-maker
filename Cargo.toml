@@ -1,0 +1,8 @@
+[package]
+name = "load-maker"
+version = "0.1.0"
+authors = ["Brian Anderson <andersrb@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+num_cpus = "1.10.0"

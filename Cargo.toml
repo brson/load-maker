@@ -1,8 +1,12 @@
 [package]
 name = "load-maker"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Brian Anderson <andersrb@gmail.com>"]
 edition = "2018"
+description = "Load up your CPUs"
+repository = "https://github.com/brson/load-maker"
+keywords = ["cpu", "load" ]
+license = "MIT"
 
 [dependencies]
 num_cpus = "1.10.0"
